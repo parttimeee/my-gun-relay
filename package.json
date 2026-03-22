@@ -1,0 +1,11 @@
+{
+  "name": "gun-relay",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "gun": "^0.2020.1239"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
